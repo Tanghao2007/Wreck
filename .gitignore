@@ -1,0 +1,50 @@
+# Build & Intermediate Outputs
+build/
+bin/
+obj/
+out/
+*.apk
+*.idsig
+*.aab
+*.dex
+*.class
+
+# Raw binary dumps & test outputs
+*.raw
+tests/c_outputs/
+tests/real_device_c_outputs/
+tests/real_device_outputs/
+
+# Local Portable Toolchains & SDKs (do not commit compiler & SDK binaries)
+tools/android-sdk/
+tools/jdk-17/
+tools/kotlinc/
+tools/platform-tools/
+tools/zig-*/
+
+# Native Binaries
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+*.exe
+*.o
+
+# Gradle & Android Studio Cache
+.gradle/
+local.properties
+.idea/
+*.iml
+.cxx/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# OS & Temp
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+*.keystore

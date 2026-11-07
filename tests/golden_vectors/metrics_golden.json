@@ -1,0 +1,142 @@
+{
+  "scene_01_portrait": {
+    "mean_luminance": 0.575837,
+    "std_luminance": 0.165265,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 4386.441,
+    "tint": -0.043151,
+    "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+    "dynamic_range_ev": 3.0753
+  },
+  "scene_02_sunset": {
+    "mean_luminance": 0.636958,
+    "std_luminance": 0.097178,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 2400.0,
+    "tint": 0.033903,
+    "scene_label": "暖阳/黄金时刻 (Golden Hour Warm)",
+    "dynamic_range_ev": 3.0
+  },
+  "scene_03_sunny": {
+    "mean_luminance": 0.564233,
+    "std_luminance": 0.12663,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 5544.194,
+    "tint": 0.104358,
+    "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+    "dynamic_range_ev": 3.0
+  },
+  "scene_04_overcast": {
+    "mean_luminance": 0.704229,
+    "std_luminance": 0.039397,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 5482.203,
+    "tint": 0.008819,
+    "scene_label": "高调平光/阴天 (Soft Overcast)",
+    "dynamic_range_ev": 3.0
+  },
+  "scene_05_high_dr": {
+    "mean_luminance": 0.42549,
+    "std_luminance": 0.475007,
+    "shadow_clip_ratio": 0.583984,
+    "highlight_clip_ratio": 0.416016,
+    "estimated_cct": 5500.0,
+    "tint": 0.0,
+    "scene_label": "大光比逆光 (High-DR Backlit)",
+    "dynamic_range_ev": 5.9773
+  },
+  "scene_06_night_neon": {
+    "mean_luminance": 0.106539,
+    "std_luminance": 0.174808,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 4779.021,
+    "tint": 0.659714,
+    "scene_label": "低照度夜景 (Low-Light Night)",
+    "dynamic_range_ev": 3.9323
+  },
+  "edge_pure_black": {
+    "mean_luminance": 0.0,
+    "std_luminance": 0.0,
+    "shadow_clip_ratio": 1.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 5500.0,
+    "tint": 0.0,
+    "scene_label": "低照度夜景 (Low-Light Night)",
+    "dynamic_range_ev": 3.0
+  },
+  "edge_pure_white": {
+    "mean_luminance": 1.0,
+    "std_luminance": 0.0,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 1.0,
+    "estimated_cct": 5500.0,
+    "tint": 0.0,
+    "scene_label": "高调平光/阴天 (Soft Overcast)",
+    "dynamic_range_ev": 3.0
+  },
+  "edge_neutral_gray": {
+    "mean_luminance": 0.501961,
+    "std_luminance": 0.0,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 5500.0,
+    "tint": 0.0,
+    "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+    "dynamic_range_ev": 3.0
+  },
+  "edge_color_bars": {
+    "mean_luminance": 0.5,
+    "std_luminance": 0.334582,
+    "shadow_clip_ratio": 0.125,
+    "highlight_clip_ratio": 0.125,
+    "estimated_cct": 5500.0,
+    "tint": 0.6,
+    "scene_label": "大光比逆光 (High-DR Backlit)",
+    "dynamic_range_ev": 8.9658
+  },
+  "edge_checkerboard": {
+    "mean_luminance": 0.5,
+    "std_luminance": 0.5,
+    "shadow_clip_ratio": 0.5,
+    "highlight_clip_ratio": 0.5,
+    "estimated_cct": 5500.0,
+    "tint": 0.0,
+    "scene_label": "大光比逆光 (High-DR Backlit)",
+    "dynamic_range_ev": 8.9658
+  },
+  "aspect_wide_640x160": {
+    "mean_luminance": 0.631238,
+    "std_luminance": 0.088402,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 2400.0,
+    "tint": 0.033467,
+    "scene_label": "暖阳/黄金时刻 (Golden Hour Warm)",
+    "dynamic_range_ev": 3.0
+  },
+  "aspect_tall_160x640": {
+    "mean_luminance": 0.573397,
+    "std_luminance": 0.169327,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 4383.811,
+    "tint": -0.042897,
+    "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+    "dynamic_range_ev": 3.0753
+  },
+  "res_standard_720p": {
+    "mean_luminance": 0.585573,
+    "std_luminance": 0.152985,
+    "shadow_clip_ratio": 0.0,
+    "highlight_clip_ratio": 0.0,
+    "estimated_cct": 4402.194,
+    "tint": -0.041806,
+    "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+    "dynamic_range_ev": 3.0753
+  }
+}
