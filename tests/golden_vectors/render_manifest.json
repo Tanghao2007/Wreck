@@ -1,0 +1,452 @@
+[
+  {
+    "case_name": "scene_01_portrait",
+    "style_id": 1,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_01_portrait_style_01_input.raw",
+    "output_raw": "scene_01_portrait_style_01_output.raw",
+    "input_bmp": "scene_01_portrait_style_01_input.bmp",
+    "output_bmp": "scene_01_portrait_style_01_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.575837,
+      "std_luminance": 0.165265,
+      "shadow_clip_ratio": 0.0,
+      "highlight_clip_ratio": 0.0,
+      "estimated_cct": 4386.441,
+      "tint": -0.043151,
+      "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+      "dynamic_range_ev": 3.0753
+    },
+    "params": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.011136,
+        0.0,
+        -0.011136
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    }
+  },
+  {
+    "case_name": "scene_01_portrait",
+    "style_id": 3,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_01_portrait_style_03_input.raw",
+    "output_raw": "scene_01_portrait_style_03_output.raw",
+    "input_bmp": "scene_01_portrait_style_03_input.bmp",
+    "output_bmp": "scene_01_portrait_style_03_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.575837,
+      "std_luminance": 0.165265,
+      "shadow_clip_ratio": 0.0,
+      "highlight_clip_ratio": 0.0,
+      "estimated_cct": 4386.441,
+      "tint": -0.043151,
+      "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+      "dynamic_range_ev": 3.0753
+    },
+    "params": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    }
+  },
+  {
+    "case_name": "scene_02_sunset",
+    "style_id": 4,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_02_sunset_style_04_input.raw",
+    "output_raw": "scene_02_sunset_style_04_output.raw",
+    "input_bmp": "scene_02_sunset_style_04_input.bmp",
+    "output_bmp": "scene_02_sunset_style_04_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.636958,
+      "std_luminance": 0.097178,
+      "shadow_clip_ratio": 0.0,
+      "highlight_clip_ratio": 0.0,
+      "estimated_cct": 2400.0,
+      "tint": 0.033903,
+      "scene_label": "暖阳/黄金时刻 (Golden Hour Warm)",
+      "dynamic_range_ev": 3.0
+    },
+    "params": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    }
+  },
+  {
+    "case_name": "scene_02_sunset",
+    "style_id": 6,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_02_sunset_style_06_input.raw",
+    "output_raw": "scene_02_sunset_style_06_output.raw",
+    "input_bmp": "scene_02_sunset_style_06_input.bmp",
+    "output_bmp": "scene_02_sunset_style_06_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.636958,
+      "std_luminance": 0.097178,
+      "shadow_clip_ratio": 0.0,
+      "highlight_clip_ratio": 0.0,
+      "estimated_cct": 2400.0,
+      "tint": 0.033903,
+      "scene_label": "暖阳/黄金时刻 (Golden Hour Warm)",
+      "dynamic_range_ev": 3.0
+    },
+    "params": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    }
+  },
+  {
+    "case_name": "scene_05_high_dr",
+    "style_id": 8,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_05_high_dr_style_08_input.raw",
+    "output_raw": "scene_05_high_dr_style_08_output.raw",
+    "input_bmp": "scene_05_high_dr_style_08_input.bmp",
+    "output_bmp": "scene_05_high_dr_style_08_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.42549,
+      "std_luminance": 0.475007,
+      "shadow_clip_ratio": 0.583984,
+      "highlight_clip_ratio": 0.416016,
+      "estimated_cct": 5500.0,
+      "tint": 0.0,
+      "scene_label": "大光比逆光 (High-DR Backlit)",
+      "dynamic_range_ev": 5.9773
+    },
+    "params": {
+      "contrast": 1.35,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    }
+  },
+  {
+    "case_name": "scene_06_night_neon",
+    "style_id": 11,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_06_night_neon_style_11_input.raw",
+    "output_raw": "scene_06_night_neon_style_11_output.raw",
+    "input_bmp": "scene_06_night_neon_style_11_input.bmp",
+    "output_bmp": "scene_06_night_neon_style_11_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.106539,
+      "std_luminance": 0.174808,
+      "shadow_clip_ratio": 0.0,
+      "highlight_clip_ratio": 0.0,
+      "estimated_cct": 4779.021,
+      "tint": 0.659714,
+      "scene_label": "低照度夜景 (Low-Light Night)",
+      "dynamic_range_ev": 3.9323
+    },
+    "params": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    }
+  },
+  {
+    "case_name": "scene_03_sunny",
+    "style_id": 14,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_03_sunny_style_14_input.raw",
+    "output_raw": "scene_03_sunny_style_14_output.raw",
+    "input_bmp": "scene_03_sunny_style_14_input.bmp",
+    "output_bmp": "scene_03_sunny_style_14_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.564233,
+      "std_luminance": 0.12663,
+      "shadow_clip_ratio": 0.0,
+      "highlight_clip_ratio": 0.0,
+      "estimated_cct": 5544.194,
+      "tint": 0.104358,
+      "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+      "dynamic_range_ev": 3.0
+    },
+    "params": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    }
+  },
+  {
+    "case_name": "scene_05_high_dr",
+    "style_id": 15,
+    "width": 256,
+    "height": 256,
+    "input_raw": "scene_05_high_dr_style_15_input.raw",
+    "output_raw": "scene_05_high_dr_style_15_output.raw",
+    "input_bmp": "scene_05_high_dr_style_15_input.bmp",
+    "output_bmp": "scene_05_high_dr_style_15_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.42549,
+      "std_luminance": 0.475007,
+      "shadow_clip_ratio": 0.583984,
+      "highlight_clip_ratio": 0.416016,
+      "estimated_cct": 5500.0,
+      "tint": 0.0,
+      "scene_label": "大光比逆光 (High-DR Backlit)",
+      "dynamic_range_ev": 5.9773
+    },
+    "params": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.88,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  {
+    "case_name": "edge_neutral_gray",
+    "style_id": 1,
+    "width": 256,
+    "height": 256,
+    "input_raw": "edge_neutral_gray_style_01_input.raw",
+    "output_raw": "edge_neutral_gray_style_01_output.raw",
+    "input_bmp": "edge_neutral_gray_style_01_input.bmp",
+    "output_bmp": "edge_neutral_gray_style_01_output.bmp",
+    "metrics": {
+      "mean_luminance": 0.501961,
+      "std_luminance": 0.0,
+      "shadow_clip_ratio": 0.0,
+      "highlight_clip_ratio": 0.0,
+      "estimated_cct": 5500.0,
+      "tint": 0.0,
+      "scene_label": "常规室内/漫反射 (Indoor Ambient)",
+      "dynamic_range_ev": 3.0
+    },
+    "params": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    }
+  }
+]

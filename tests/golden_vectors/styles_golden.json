@@ -1,0 +1,6330 @@
+{
+  "scene_01_portrait": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.011136,
+        0.0,
+        -0.011136
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.367367,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.482841,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "scene_02_sunset": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.031,
+        0.0,
+        -0.031
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.08,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.401411,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.523693,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "scene_03_sunny": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.000442,
+        0.0,
+        0.000442
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.386685,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.506022,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "scene_04_overcast": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.000178,
+        0.0,
+        -0.000178
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.15,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.08,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.430302,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.558362,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.06,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "scene_05_high_dr": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 0.98,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.106719,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.25,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.35,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.25,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.88,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "scene_06_night_neon": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.00721,
+        0.0,
+        -0.00721
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.362596,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.15,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.477115,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "edge_pure_black": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.12,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.45,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.15,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.582,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "edge_pure_white": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 0.98,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.15,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.08,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.45,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.582,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.06,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.88,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "edge_neutral_gray": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.45,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.582,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "edge_color_bars": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.07,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.282709,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.381251,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.25,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.88,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "edge_checkerboard": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        -0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.1,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.25,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.35,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.25,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.88,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "aspect_wide_640x160": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.031,
+        0.0,
+        -0.031
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.08,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.405799,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.528959,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "aspect_tall_160x640": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.011162,
+        0.0,
+        -0.011162
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.365337,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.480404,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  },
+  "res_standard_720p": {
+    "style_01": {
+      "contrast": 1.04,
+      "exposure_bias": 0.0,
+      "saturation": 1.0,
+      "black_lift": 0.005,
+      "white_clip": 1.0,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.0,
+      "vignette": 0.0,
+      "shadow_tint": [
+        0.010978,
+        0.0,
+        -0.010978
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.35
+    },
+    "style_02": {
+      "contrast": 0.88,
+      "exposure_bias": 0.3,
+      "saturation": 0.82,
+      "black_lift": 0.06,
+      "white_clip": 0.94,
+      "toe_strength": 0.25,
+      "shoulder_strength": 0.85,
+      "grain_intensity": 0.005,
+      "vignette": 0.02,
+      "shadow_tint": [
+        0.04,
+        0.03,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.0
+      ],
+      "highlight_tint": [
+        0.01,
+        0.03,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_03": {
+      "contrast": 0.86,
+      "exposure_bias": 0.22,
+      "saturation": 0.85,
+      "black_lift": 0.05,
+      "white_clip": 0.92,
+      "toe_strength": 0.3,
+      "shoulder_strength": 0.9,
+      "grain_intensity": 0.0,
+      "vignette": 0.05,
+      "shadow_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.45,
+      "clarity_strength": 0.2
+    },
+    "style_04": {
+      "contrast": 1.14,
+      "exposure_bias": 0.0,
+      "saturation": 0.88,
+      "black_lift": 0.06,
+      "white_clip": 0.96,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.032,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.05,
+        0.04,
+        -0.04
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.05,
+        0.01,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.2,
+      "clarity_strength": 0.3
+    },
+    "style_05": {
+      "contrast": 1.373507,
+      "exposure_bias": -0.04,
+      "saturation": 1.18,
+      "black_lift": 0.015,
+      "white_clip": 0.98,
+      "toe_strength": 0.8,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.036,
+      "vignette": 0.28,
+      "shadow_tint": [
+        0.04,
+        0.05,
+        -0.04
+      ],
+      "mid_tint": [
+        -0.02,
+        0.02,
+        0.05
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.35
+    },
+    "style_06": {
+      "contrast": 1.3,
+      "exposure_bias": -0.03,
+      "saturation": 0.95,
+      "black_lift": 0.018,
+      "white_clip": 0.96,
+      "toe_strength": 0.72,
+      "shoulder_strength": 0.68,
+      "grain_intensity": 0.024,
+      "vignette": 0.26,
+      "shadow_tint": [
+        0.09,
+        0.03,
+        -0.07
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.03
+      ],
+      "highlight_tint": [
+        -0.08,
+        0.01,
+        0.07
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.4
+    },
+    "style_07": {
+      "contrast": 1.24,
+      "exposure_bias": -0.35,
+      "saturation": 0.68,
+      "black_lift": 0.01,
+      "white_clip": 0.92,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.45,
+      "grain_intensity": 0.035,
+      "vignette": 0.4,
+      "shadow_tint": [
+        0.08,
+        0.02,
+        -0.05
+      ],
+      "mid_tint": [
+        0.03,
+        -0.01,
+        -0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.0,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_08": {
+      "contrast": 1.490209,
+      "exposure_bias": 0.0,
+      "saturation": 0.0,
+      "black_lift": 0.0,
+      "white_clip": 1.0,
+      "toe_strength": 0.85,
+      "shoulder_strength": 0.55,
+      "grain_intensity": 0.03,
+      "vignette": 0.22,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "protect_skin": 0,
+      "is_monochrome": 1,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_09": {
+      "contrast": 1.2,
+      "exposure_bias": 0.05,
+      "saturation": 1.35,
+      "black_lift": 0.0,
+      "white_clip": 0.98,
+      "toe_strength": 0.6,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.48
+    },
+    "style_10": {
+      "contrast": 0.92,
+      "exposure_bias": 0.0,
+      "saturation": 0.66,
+      "black_lift": 0.05,
+      "white_clip": 0.94,
+      "toe_strength": 0.35,
+      "shoulder_strength": 0.8,
+      "grain_intensity": 0.0,
+      "vignette": 0.08,
+      "shadow_tint": [
+        0.02,
+        0.01,
+        0.01
+      ],
+      "mid_tint": [
+        -0.01,
+        0.01,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.25
+    },
+    "style_11": {
+      "contrast": 1.38,
+      "exposure_bias": -0.12,
+      "saturation": 1.26,
+      "black_lift": 0.02,
+      "white_clip": 0.98,
+      "toe_strength": 0.75,
+      "shoulder_strength": 0.5,
+      "grain_intensity": 0.018,
+      "vignette": 0.32,
+      "shadow_tint": [
+        0.12,
+        -0.02,
+        0.04
+      ],
+      "mid_tint": [
+        0.04,
+        -0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.06,
+        0.03,
+        0.08
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.25,
+      "clarity_strength": 0.45
+    },
+    "style_12": {
+      "contrast": 1.06,
+      "exposure_bias": 0.04,
+      "saturation": 0.78,
+      "black_lift": 0.04,
+      "white_clip": 0.95,
+      "toe_strength": 0.4,
+      "shoulder_strength": 0.75,
+      "grain_intensity": 0.012,
+      "vignette": 0.16,
+      "shadow_tint": [
+        0.03,
+        0.04,
+        -0.02
+      ],
+      "mid_tint": [
+        -0.01,
+        0.02,
+        0.02
+      ],
+      "highlight_tint": [
+        -0.03,
+        0.02,
+        0.04
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.3
+    },
+    "style_13": {
+      "contrast": 0.93,
+      "exposure_bias": 0.18,
+      "saturation": 0.88,
+      "black_lift": 0.05,
+      "white_clip": 0.93,
+      "toe_strength": 0.32,
+      "shoulder_strength": 0.82,
+      "grain_intensity": 0.016,
+      "vignette": 0.14,
+      "shadow_tint": [
+        -0.02,
+        0.01,
+        0.03
+      ],
+      "mid_tint": [
+        -0.03,
+        0.01,
+        0.04
+      ],
+      "highlight_tint": [
+        -0.04,
+        0.02,
+        0.05
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.35,
+      "clarity_strength": 0.25
+    },
+    "style_14": {
+      "contrast": 1.24,
+      "exposure_bias": 0.0,
+      "saturation": 1.04,
+      "black_lift": 0.01,
+      "white_clip": 0.98,
+      "toe_strength": 0.55,
+      "shoulder_strength": 0.6,
+      "grain_intensity": 0.0,
+      "vignette": 0.1,
+      "shadow_tint": [
+        0.01,
+        0.01,
+        -0.01
+      ],
+      "mid_tint": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "highlight_tint": [
+        0.0,
+        0.0,
+        0.01
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.4,
+      "clarity_strength": 0.55
+    },
+    "style_15": {
+      "contrast": 1.14,
+      "exposure_bias": 0.04,
+      "saturation": 1.2,
+      "black_lift": 0.02,
+      "white_clip": 0.96,
+      "toe_strength": 0.45,
+      "shoulder_strength": 0.7,
+      "grain_intensity": 0.0,
+      "vignette": 0.06,
+      "shadow_tint": [
+        0.02,
+        0.02,
+        0.0
+      ],
+      "mid_tint": [
+        0.0,
+        0.01,
+        0.01
+      ],
+      "highlight_tint": [
+        -0.02,
+        0.01,
+        0.02
+      ],
+      "protect_skin": 1,
+      "is_monochrome": 0,
+      "denoise_strength": 0.3,
+      "clarity_strength": 0.6
+    }
+  }
+}

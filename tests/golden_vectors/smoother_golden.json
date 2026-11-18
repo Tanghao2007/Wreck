@@ -1,0 +1,132 @@
+[
+  {
+    "frame": 0,
+    "input": {
+      "contrast": 1.0,
+      "exposure_bias": 0.0,
+      "saturation": 1.0
+    },
+    "smoothed": {
+      "contrast": 1.0,
+      "exposure_bias": 0.0,
+      "saturation": 1.0
+    }
+  },
+  {
+    "frame": 1,
+    "input": {
+      "contrast": 1.02,
+      "exposure_bias": 0.01,
+      "saturation": 1.01
+    },
+    "smoothed": {
+      "contrast": 1.0016,
+      "exposure_bias": 0.0008,
+      "saturation": 1.0008
+    }
+  },
+  {
+    "frame": 2,
+    "input": {
+      "contrast": 1.01,
+      "exposure_bias": 0.0,
+      "saturation": 0.99
+    },
+    "smoothed": {
+      "contrast": 1.002272,
+      "exposure_bias": 0.000736,
+      "saturation": 0.999936
+    }
+  },
+  {
+    "frame": 3,
+    "input": {
+      "contrast": 1.03,
+      "exposure_bias": 0.02,
+      "saturation": 1.02
+    },
+    "smoothed": {
+      "contrast": 1.00449,
+      "exposure_bias": 0.002277,
+      "saturation": 1.001541
+    }
+  },
+  {
+    "frame": 4,
+    "input": {
+      "contrast": 1.8,
+      "exposure_bias": 0.9,
+      "saturation": 1.5
+    },
+    "smoothed": {
+      "contrast": 1.36247,
+      "exposure_bias": 0.406252,
+      "saturation": 1.225848
+    }
+  },
+  {
+    "frame": 5,
+    "input": {
+      "contrast": 1.75,
+      "exposure_bias": 0.85,
+      "saturation": 1.48
+    },
+    "smoothed": {
+      "contrast": 1.521977,
+      "exposure_bias": 0.605939,
+      "saturation": 1.282119
+    }
+  },
+  {
+    "frame": 6,
+    "input": {
+      "contrast": 1.7,
+      "exposure_bias": 0.8,
+      "saturation": 1.45
+    },
+    "smoothed": {
+      "contrast": 1.536219,
+      "exposure_bias": 0.642555,
+      "saturation": 1.29555
+    }
+  },
+  {
+    "frame": 7,
+    "input": {
+      "contrast": 1.7,
+      "exposure_bias": 0.8,
+      "saturation": 1.45
+    },
+    "smoothed": {
+      "contrast": 1.549321,
+      "exposure_bias": 0.658042,
+      "saturation": 1.307906
+    }
+  },
+  {
+    "frame": 8,
+    "input": {
+      "contrast": 1.7,
+      "exposure_bias": 0.8,
+      "saturation": 1.45
+    },
+    "smoothed": {
+      "contrast": 1.561376,
+      "exposure_bias": 0.669399,
+      "saturation": 1.319273
+    }
+  },
+  {
+    "frame": 9,
+    "input": {
+      "contrast": 1.7,
+      "exposure_bias": 0.8,
+      "saturation": 1.45
+    },
+    "smoothed": {
+      "contrast": 1.572466,
+      "exposure_bias": 0.679847,
+      "saturation": 1.329731
+    }
+  }
+]
