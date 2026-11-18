@@ -70,9 +70,6 @@ def main():
 
     # 1. Copy source trees
     for folder in ["c_core", "android", "scripts", "tests", "tools", "resources", "core"]:
-        src = PROJECT_ROOT / folder
-        if src.exists():
-            print(f"  -> Copying {folder}...")
             copy_clean_tree(src, TARGET_DIR / folder)
 
     # 2. Copy root documents
@@ -82,10 +79,7 @@ def main():
         "RELEASE_NOTES_v2.1.md",
         "PORTING_STAGE_REPORT.md",
         "15类倾向性审美.txt"
-    ]:
         src_doc = PROJECT_ROOT / doc
-        if src_doc.exists():
-            shutil.copy2(src_doc, TARGET_DIR / doc)
 
     # 2.1 Copy APK for GitHub Release page
     apk_file = PROJECT_ROOT / "Wreck-v2.2.apk"
@@ -94,15 +88,12 @@ def main():
         shutil.copy2(apk_file, TARGET_DIR / apk_file.name)
 
     # 3. Create .gitignore
-    gitignore_content = """# Build & Intermediate Outputs
 build/
 bin/
 obj/
 out/
 *.apk
 *.idsig
-*.aab
-*.dex
 *.class
 
 # Raw binary dumps & test outputs
@@ -184,11 +175,6 @@ SOFTWARE.
 
 **Wreck** 是面向旗舰移动端（专为高通骁龙 8 至尊版 / OnePlus 13 深度调优）打造的超低时延、全端侧实时的自适应电影级调色相机与图像处理引擎。
 
-核心算法完全采用纯 C 语言编写，深度整合 ARM64 NEON SIMD 矢量指令集与条件变量事件驱动多核切片并发，配合 Camera2 硬件 ISP 协同旁路设计，实现 **9.1ms / 110 FPS** 满帧实时取景，并支持 **12.5MP (4096x3072 / 6~8MB)** 高分辨率电影成片直接拍摄落盘至系统 DCIM 相册。
-
----
-
-## 核心特性 (Key Features)
 
 - **15 款殿堂级电影色彩美学风格 + 3 款超风格化滤镜**：
   - 港风复古、电影冷青、暗调情绪、复古暖阳、富士胶片、黑白银盐等 15 款经典电影风格。

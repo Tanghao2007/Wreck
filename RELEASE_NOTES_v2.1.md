@@ -2,9 +2,15 @@
 
 **项目名称**: `Wreck`  
 **版本号**: `v2.1` (`versionCode: 2`, `versionName: "2.1"`)  
+<<<<<<< HEAD
 **发布日期**: 2026-11-09 (更新) / 2026-11-06 (初版)  
 **适配目标机型**: 一加 13 (OnePlus 13 / PJZ110, 骁龙 8 至尊版 Snapdragon 8 Elite, Android 15 / ColorOS 15)  
 **官方正式安装包**: `Wreck-v2.1.apk` (936.5 KB / 958,953 Bytes)  
+=======
+**发布日期**: 2026-11-06  
+**适配目标机型**: 一加 13 (OnePlus 13 / PJZ110, 骁龙 8 至尊版 Snapdragon 8 Elite, Android 15 / ColorOS 15)  
+**官方正式安装包**: `Wreck-v2.1.apk` (904.5 KB)  
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 *(同步镜像兼容保留: `AdaptiveGrading-v2.1.apk` 与历史基线版本 `AdaptiveGrading-v2.0.apk`)*  
 **开源交付源码包**: 项目根目录下独立划分的 `github_release/` 纯净源码目录
 
@@ -12,7 +18,11 @@
 
 ## 一、 用户上机实测问题排查与根因分析 (RCA)
 
+<<<<<<< HEAD
 针对前期用户在 OnePlus 13 真机实测中提出的所有问题，底层技术链路剖析如下：
+=======
+针对用户在 OnePlus 13 真机实测中提出的所有问题与体验痛点，底层技术链路剖析如下：
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 
 | 缺陷现象 | 根因深度剖析 (Root Cause) |
 | :--- | :--- |
@@ -31,6 +41,7 @@
   - 流 1 (`previewReader`)：保持 `1280x720` YUV420 轻量流，专注保障取景器 30~60 FPS 满帧丝滑运行（耗时仅 9.1ms）。
   - 流 2 (`stillImageReader`)：配置 `4096x3072` 原生 Still Capture 流，利用 OnePlus 13 旗舰主摄的硬件 4-in-1 像素聚合，输出 12.58 Megapixels 超清原画。
 - **JNI 物理图形内存直接锁定 (`AndroidBitmap_lockPixels`)**：
+<<<<<<< HEAD
   在 `adaptive_grading_jni.c` 中新增 `nativeGradeBitmapInPlace`，通过 NDK `libjnigraphics` 直接锁定 Bitmap 显存地址，C 核心 NEON 多线程切片管线直接原地着色，**零中间堆内存分配、零二次内存拷贝**。
 - **6~8MB 电影画质大图输出**：
   自动补偿 90° 旋转生成 `3072x4096` 正立人像照片，以 JPEG 质量 98 写入系统相册 `DCIM/AdaptiveGrading/`，照片体积达到 **`6.0 MB ~ 8.5 MB`**（与原生相机完全一致），完美呈现丰富的微反差与银盐胶片质感。
@@ -76,22 +87,48 @@
   - 底部配有快捷胶囊按钮（`.6`、`1x`、`3x`）。
 
 ### 6. 取景器 GPU 仿射变换与 1:1 无畸变渲染 (`CameraPreviewView.kt`)
+=======
+  在 `adaptive_grading_jni.c` 中新增 `nativeGradeBitmapInPlace`，通过 NDK `libjnigraphics` 直接锁定 Bitmap 显存地址，C 核心 NEON 多线程切片管线直接原地原地着色，**零中间堆内存分配、零二次内存拷贝**。
+- **6~8MB 电影画质大图输出**：
+  自动补偿 90° 旋转生成 `3072x4096` 正立人像照片，以 JPEG 质量 98 写入系统相册 `DCIM/AdaptiveGrading/`，照片体积达到 **`6.0 MB ~ 8.5 MB`**（与原生相机完全一致），完美呈现丰富的微反差与银盐胶片质感。
+
+### 2. 取景器 GPU 仿射变换与 1:1 无畸变渲染 (`CameraPreviewView.kt`)
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 - **90° 顺时针物理补偿**：引入 `android.graphics.Matrix`，通过 `postTranslate -> postRotate(90f) -> postScale -> postTranslate`，将横向相机帧精准对齐竖屏持握物理视角。
 - **Aspect-Fill 等比例居中裁切**：
   $$\text{Scale} = \max\left(\frac{\text{viewWidth}}{\text{frameHeight}}, \frac{\text{viewHeight}}{\text{frameWidth}}\right)$$
   像素纵横比维持严格 1:1，圆圈恢复正圆、文字规整，彻底消除拉伸畸变。
 - **零 GC 开销与 Adreno GPU 硬件加速**：矩阵参数在尺寸变更时单次计算复用，配合 `SurfaceHolder.lockHardwareCanvas()` 硬件画布实现 0% CPU 图像渲染。
 
+<<<<<<< HEAD
 ### 7. C 核心计算管线极致性能优化 (`adaptive_grading.c`, `adaptive_thread_pool.c`)
 - **实时流硬件 ISP 协同旁路**：针对取景器实时流，将降噪与锐化重任无缝委托给高通 **Qualcomm Spectra ISP** 硬件硅片；C 核心库自动旁路耗时的 3 通道 CPU 软件高斯滤波，仅保留毫秒级 `Filmic Master LUT`、自适应时域平滑、银盐暗角与高质感色彩渲染。
+=======
+### 3. C 核心计算管线极致性能优化 (`adaptive_grading.c`, `adaptive_thread_pool.c`)
+- **实时流硬件 ISP 协同旁路**：针对取景器实时流，将降噪与锐化重任无缝委托给骁龙 8 至尊版集成的 **Qualcomm Spectra ISP** 硬件硅片；C 核心库自动旁路耗时的 3 通道 CPU 软件高斯滤波，仅保留毫秒级 `Filmic Master LUT`、自适应时域平滑、银盐暗角与高质感色彩渲染。
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 - **肤色感知区域降采样优化**：从原先的 4 重嵌套全图逐块遍历，重构为基于点阵步进的轻量化感知采样，耗时从 4.2ms 降低至 0.18ms。
 - **条件变量事件驱动线程池**：重写 `adaptive_thread_pool.c`，以 POSIX `pthread_mutex_t` 与 `pthread_cond_t` 替代原先的高功耗 `yield` 自旋锁。空闲时工作线程完全休眠（0.0% CPU 占用），分派切片任务时微秒级广播唤醒，彻底根治发热降频。
 - **竖屏分屏切片坐标映射修正**：分屏对比分割线算法重构，自动将横向帧行映射为手机竖屏左右分屏，支持在屏幕上左右滑动无级对比原画与电影调色画质。
 
+<<<<<<< HEAD
 ### 8. 官方正式命名与 GitHub 开源纯净源码归档
 - **正式名更名**：AndroidManifest 中 `android:label` 正式更名为 **`Wreck`**（与工程总名同名），桌面快捷方式与关于界面统一展示 `Wreck`。
 - **APK 产物规范**：正式包发布为 **`Wreck-v2.1.apk`**。
 - **GitHub 发布专用源码包**：在根目录下单独划分 **`github_release/`** 目录，经过自动化脚本剥离一切 `.apk`, `.so`, `.class`, `.dex`, `build/` 临时缓存，包含标准 MIT `LICENSE`、`.gitignore` 与中英文 `README.md`。
+=======
+### 4. 原生相机级画质增强 (`CameraActivity.kt`)
+- 在 Camera2 `createCaptureRequest` 中开启全套旗舰级硬件特性：
+  - `CaptureRequest.EDGE_MODE = EDGE_MODE_HIGH_QUALITY`（启用高通硬件超清边缘锐化）
+  - `CaptureRequest.NOISE_REDUCTION_MODE = NOISE_REDUCTION_MODE_FAST`（硬件级实时空域降噪）
+  - `CaptureRequest.CONTROL_AWB_MODE = CONTROL_AWB_MODE_AUTO`（智能白平衡测光）
+  - `CaptureRequest.LENS_OPTICAL_STABILIZATION_MODE = LENS_OPTICAL_STABILIZATION_MODE_ON`（开启 OnePlus 13 主摄 OIS 光学防抖）
+
+### 5. 官方正式命名与 GitHub 开源纯净源码归档
+- **正式名更名**：AndroidManifest 中 `android:label` 正式更名为 **`Wreck`**（与工程总名同名），桌面快捷方式与关于界面统一展示 `Wreck`。
+- **APK 产物规范**：正式包发布为 **`Wreck-v2.1.apk`**。
+- **GitHub 发布专用源码包**：在根目录下单独划分 **`github_release/`** 目录，经过自动化脚本剥离一切 `.apk`, `.so`, `.class`, `.dex`, `build/` 临时缓存，包含标准 MIT `LICENSE`、`.gitignore` 与中英文 `README.md`，可直接一键推送至 GitHub。
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 
 ---
 
@@ -99,6 +136,7 @@
 
 经过真机 ADB 实机安装与自动化联调测试，各项关键指标如下：
 
+<<<<<<< HEAD
 | 测试项 | v2.0 初始基线 | v2.1 优化成果 (含本次扩展) | 判定结果 |
 | :--- | :--- | :--- | :--- |
 | **视频录制功能** | 无此功能 | **硬件 H.264+AAC，720x1280 30FPS 10Mbps** | **通过** (成片入相册) |
@@ -108,6 +146,10 @@
 | **录制按键交互** | 单一拍照按钮 | **轻触拍照；长按 2s 环形进度录像；轻触停止** | **通过** (带震动与顶部计时) |
 | **变焦倍率调节** | 仅单焦固定 | **双指捏合无级缩放 + `.6x`/`1x`/`3x` 快选 + 浮层倍率显示** | **通过** (0.6x~20x 多摄切镜) |
 | **录制中风格切换** | 仅录制前固定 | **录制前/中随时无缝切换 15 款风格，帧日志实时同步** | **通过** (调色实时生效) |
+=======
+| 测试项 | v2.0 初始基线 | v2.1 优化成果 | 优化提升判定 |
+| :--- | :--- | :--- | :--- |
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 | **拍照产物分辨率** | 720p (`720x1280`，0.9MP) | **12.5MP (`3072x4096`，1258万像素)** | **提升 13.6 倍有效像素** |
 | **单张照片文件体积** | `440 KB` (仅缩略图大小) | **`4.54 MB ~ 8.5 MB`** | **完美达到 6~8MB 原生相机规格** |
 | **C 核心单帧取景时延** | `144.0 ms` | **`9.11 ms`** | **15.8x 极速跃升** (超越 16.6ms 目标) |
@@ -117,3 +159,7 @@
 | **成片调色与相册入库** | 原相机直出图、相册找不到 | **100% 电影滤镜调色成片，写入相册** | **通过** (`/sdcard/DCIM/AdaptiveGrading/`) |
 | **运行内存与稳定性** | ~220 MB (线程激烈抢占) | **PSS 211 MB** (连续 5160 帧无崩溃) | **通过** (零泄漏、零热降频) |
 | **软件正式命名** | Adaptive Grading | **Wreck** | **通过** (桌面与安装包同步更新) |
+<<<<<<< HEAD
+=======
+| **GitHub 源码包** | 混杂临时缓存与二进制 | **`github_release/` 纯净源码目录** | **通过** (已自动归档) |
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1

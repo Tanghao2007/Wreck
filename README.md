@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Wreck v2.2 - Real-Time Cinematic Adaptive Grading Engine (Android / C)
+=======
+# Wreck - Real-Time Cinematic Adaptive Grading Engine (Android / C)
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 
 [![Platform](https://img.shields.io/badge/Platform-Android%2015-brightgreen.svg)]()
 [![Arch](https://img.shields.io/badge/Architecture-ARM64--v8a%20%7C%20NEON-blue.svg)]()
@@ -7,17 +11,26 @@
 
 **Wreck** 是面向旗舰移动端（专为高通骁龙 8 至尊版 / OnePlus 13 深度调优）打造的超低时延、全端侧实时的自适应电影级调色相机与图像处理引擎。
 
+<<<<<<< HEAD
 核心算法完全采用纯 C 语言编写，深度整合 ARM64 NEON SIMD 矢量指令集与条件变量事件驱动多核切片并发，配合 Camera2 硬件 ISP 协同旁路设计，实现 **9.1ms / 110 FPS** 满帧实时取景，并支持 **12.5MP (4096x3072 / 6~8MB)** 高分辨率成片直接拍摄落盘至系统 DCIM 相册。
+=======
+核心算法完全采用纯 C 语言编写，深度整合 ARM64 NEON SIMD 矢量指令集与条件变量事件驱动多核切片并发，配合 Camera2 硬件 ISP 协同旁路设计，实现 **9.1ms / 110 FPS** 满帧实时取景，并支持 **12.5MP (4096x3072 / 6~8MB)** 高分辨率电影成片直接拍摄落盘至系统 DCIM 相册。
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 
 ---
 
 ## 核心特性 (Key Features)
 
+<<<<<<< HEAD
 - **15 款色彩美学风格 + 3 款超风格化滤镜**：
   - 港风复古、电影冷青、暗调情绪、复古暖阳、富士胶片、黑白银盐等 15 款经典电影风格。
   - **v2.2 新增三大超级风格化**：针对参考摄影样张深度学习拟真，推出 **Noon 正午**、**Golden Hour 黄金时刻** 与 **Sunset 落日余晖**，真实再现纯澈晴空蓝、鲜活翠绿草坪与暮色紫粉晚霞光感。
   - **全新左上角胶囊 UI**：在“分屏对比”右侧无缝挂载“超风格化”按钮与折叠交互栏。
 - **高度端侧实时性**：
+=======
+- **15 款色彩美学风格**：港风复古、电影冷青、暗调情绪、复古暖阳、高清HDR、黑白等 15 种风格解算器。
+- **极致端侧实时性**：
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
   - 实时取景渲染延迟低至 **`9.11 ms`**；
   - 取景器 **30.0 FPS** 锁满硬件传感器，理论算力吞吐达 **109.8 FPS**。
 - **12.5MP 原生高画质大图捕获**：
@@ -27,8 +40,13 @@
 - **零 CPU 占用取景渲染**：
   - 基于 `android.graphics.Matrix` 的 90° 顺时针旋转物理校正与 Aspect-Fill（Center-Crop）等比例居中裁切；
   - 直接调用 `SurfaceHolder.lockHardwareCanvas()` 硬件画布交由 Adreno GPU 并行渲染，彻底根治形变与拉伸。
+<<<<<<< HEAD
 - **轻量级架构**：
   - 打包生成独立的 `Wreck-v2.2.apk` 仅约 **940 KB**；
+=======
+- **超轻量级架构**：
+  - 打包生成独立的 `Wreck-v2.1.apk` 仅约 **900 KB**；
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
   - 零第三方庞大依赖，无需 OpenCV、无需 PyTorch，纯 C + NDK + Kotlin 原生轻量打造。
 
 ---
@@ -49,7 +67,11 @@ Wreck/
 │   ├── build_and_install_apk.py # 一键免 IDE 编译打包与真机 ADB 自动部署
 │   └── ci_pipeline.py      # 本地 CI 持续集成多阶段测试脚本
 ├── tests/                  # 单元测试与真机压力测试套件
+<<<<<<< HEAD
 ├── tools/                  # 基准黄金测试向量验证脚本
+=======
+└── tools/                  # 基准黄金测试向量验证脚本
+>>>>>>> 8dd03396df0304e528aaeaac230a1062a05fcde1
 ```
 
 ---
